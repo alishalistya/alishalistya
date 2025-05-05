@@ -1,5 +1,5 @@
 # Hello! I’m Alisha 🌱
-I’m passionate in building Human-Computer Interaction and UI/UX Design. Majoring in CompSci, I’m also learning and constantly upskilling my software engineering projects. I love doing hackathons and other projects.
+I'm passionate about Human-Computer Interaction and UI/UX Design. As a Computer Science major, I'm continually learning and enhancing my skills through software engineering projects. I enjoy participating in hackathons and building innovative, user-centered solutions through collaborative projects.
 
 ## 📈 Stats
 <p align="center">
