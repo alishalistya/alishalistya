@@ -4,13 +4,13 @@ I’m passionate in building Human-Computer Interaction and UI/UX Design. Majori
 ## 📈 Stats
 <p align="center">
     <a href="https://github.com/alishalistya/alishalistya">
-        <img src="https://github-profile-trophy.vercel.app/?username=alishalistya&column=-1&theme=radical" />
+        <img src="https://github-profile-trophy.vercel.app/?alishalistya=ryo-ma&column=3&margin-w=15&margin-h=15&theme=darkhub" />
     </a>
     <a href="https://github.com/alishalistya/alishalistya">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishalistya&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishalistya&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=darkhub" />
     </a>
     <a href="https://github.com/alishalistya/alishalistya">
-        <img src="https://github-readme-stats.vercel.app/api?username=alishalistya&show_icons=true&count_private=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alishalistya&show_icons=true&count_private=true&theme=darkhub" />
     </a>
 </p>
 
